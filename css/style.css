@@ -124,24 +124,13 @@ button {
   height: 36px;
 }
 
-.voice {
+.voice img {
   float: right;
   display: flex;
   align-items: center;
-
+  width: 35px;
 }
 
-.voice img{
-  width: 30px;
-  height: 30px;
-  /* display: flex;
-  align-items: center;
-  padding-right: 13px;
-  margin-top: -5px; */
-  position: fixed;
-  margin: 520px;
-
-}
 
 .googlesearch {
   margin: 11px 4px;
