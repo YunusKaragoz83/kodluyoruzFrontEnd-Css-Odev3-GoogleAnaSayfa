@@ -20,31 +20,6 @@
   text-decoration: underline;
 }
 
-.left-Header {
-  padding: 1px;
-  font-size: 13px;
-  margin: 1px;
-  
-  display: flex;
-  list-style-type: none;
-  float: left;
-  justify-content: space-between;
-}
-
-.left-Header li {
-  font-size: 13px;
-  padding: 5px;
-  font-family: arial,sans-serif;
-  float: left;
-}
-
-.left-Header li a {
-  text-decoration: none;
-  display: block;
-  color: black;
-  text-align: center;
-}
-
 .container {
   text-align: center;
   margin: 100px;
